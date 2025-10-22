@@ -25,18 +25,18 @@ Wide variations in ability plus high turnover lengthen onboarding: new hires nee
 
 ##  **Configuración**
 
-Para garantizar un funcionamiento fluido y fácil gestión, la **aplicación** requiere ciertas configuraciones. A continuación se detallan los componentes clave de configuración:
+Para garantizar un funcionamiento fluido y fácil gestión, la **sistema** requiere ciertas configuraciones. A continuación se detallan los componentes clave de configuración:
 
 1. **Configuración de la Base de Datos de Inventarios**
-   La **aplicación** necesitará acceder a una base de datos de inventarios en tiempo real. Es crucial configurar correctamente esta integración para que los datos del inventario se actualicen constantemente y los agentes puedan consultar la disponibilidad de los productos de manera precisa.
+   La **sistema** necesitará acceder a una base de datos de inventarios en tiempo real. Es crucial configurar correctamente esta integración para que los datos del inventario se actualicen constantemente y los agentes puedan consultar la disponibilidad de los productos de manera precisa.
 
 2. **Configuración del Motor de Recomendaciones**
-   La **aplicación** debe integrarse con una base de datos de productos y un algoritmo de recomendaciones personalizadas. La configuración debe definir parámetros como categorías de productos, preferencias de clientes y filtros específicos para el proceso de recomendación.
+   La **sistema** debe integrarse con una base de datos de productos y un algoritmo de recomendaciones personalizadas. La configuración debe definir parámetros como categorías de productos, preferencias de clientes y filtros específicos para el proceso de recomendación.
 
 3. **Configuración de los Guiones de Ventas**
-   La **aplicación** permitirá la personalización de los guiones de ventas. Los administradores podrán configurar plantillas de guiones para diferentes escenarios de interacción con los clientes, asegurando la flexibilidad necesaria para ofrecer respuestas personalizadas a cada cliente.
+   La **sistema** permitirá la personalización de los guiones de ventas. Los administradores podrán configurar plantillas de guiones para diferentes escenarios de interacción con los clientes, asegurando la flexibilidad necesaria para ofrecer respuestas personalizadas a cada cliente.
 
 4. **Configuración de la Base de Conocimiento**
-   La **aplicación** incluirá una base de conocimiento a la que los agentes podrán acceder para obtener detalles sobre los productos, pasos de solución de problemas y registros de interacciones con los clientes. La configuración de esta base de conocimiento es esencial para garantizar que los agentes puedan encontrar rápidamente las respuestas correctas.
+   La **sistema** incluirá una base de conocimiento a la que los agentes podrán acceder para obtener detalles sobre los productos, pasos de solución de problemas y registros de interacciones con los clientes. La configuración de esta base de conocimiento es esencial para garantizar que los agentes puedan encontrar rápidamente las respuestas correctas.
 
 ## 
