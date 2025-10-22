@@ -1,7 +1,5 @@
 # Virtual-Infrastructure
 
-# 
-
 **Problem and Requirements for an Intelligent System at a Fashion Brand Agency**
 --------------------------------------------------------------------------------
 
@@ -41,22 +39,24 @@ The **application** will include a knowledge management system that stores and o
 
 * * *
 
-### **Application Configuration**
+## **Configuración de la Aplicación**
 
-To ensure smooth operation and easy management, the **application** requires certain configurations. Below are the key configuration components:
+Para garantizar un funcionamiento fluido y fácil gestión, la **aplicación** requiere ciertas configuraciones. A continuación se detallan los componentes clave de configuración:
 
-1. **Inventory Database Configuration**  
-   The **application** will need access to a real-time inventory database. Proper configuration is needed to allow the system to query inventory data and provide up-to-date information to agents.
+1. **Configuración de la Base de Datos de Inventarios**
+   La **aplicación** necesitará acceder a una base de datos de inventarios en tiempo real. Es crucial configurar correctamente esta integración para que los datos del inventario se actualicen constantemente y los agentes puedan consultar la disponibilidad de los productos de manera precisa.
 
-2. **Recommendation Engine Configuration**  
-   The **application** must integrate with a product database and a personalized recommendation algorithm. Configuration will include defining product categories, customer preferences, and any specific filters to be applied during the recommendation process.
+2. **Configuración del Motor de Recomendaciones**
+   La **aplicación** debe integrarse con una base de datos de productos y un algoritmo de recomendaciones personalizadas. La configuración debe definir parámetros como categorías de productos, preferencias de clientes y filtros específicos para el proceso de recomendación.
 
-3. **Sales Script Customization Settings**  
-   The **application** will allow customization of sales scripts. Administrators will configure script templates based on customer interaction scenarios, providing flexibility to adapt responses while maintaining consistency.
+3. **Configuración de los Guiones de Ventas**
+   La **aplicación** permitirá la personalización de los guiones de ventas. Los administradores podrán configurar plantillas de guiones para diferentes escenarios de interacción con los clientes, asegurando la flexibilidad necesaria para ofrecer respuestas personalizadas a cada cliente.
 
-4. **Knowledge Base Configuration**  
-   The **application** will include a knowledge base accessible to agents for retrieving product details, troubleshooting steps, and customer interaction logs. Proper configuration of this knowledge base is essential to ensure agents can quickly access relevant information.
+4. **Configuración de la Base de Conocimiento**
+   La **aplicación** incluirá una base de conocimiento a la que los agentes podrán acceder para obtener detalles sobre los productos, pasos de solución de problemas y registros de interacciones con los clientes. La configuración de esta base de conocimiento es esencial para garantizar que los agentes puedan encontrar rápidamente las respuestas correctas.
 
- 
+## **Aplicación**
 
+La **aplicación** propuesta tiene como objetivo resolver varios problemas operativos de la agencia de marca de moda, tales como la gestión de inventarios, la recomendación de productos y la automatización de los guiones de ventas. A través de la integración de sistemas inteligentes, esta **aplicación** busca mejorar la eficiencia operativa y la satisfacción del cliente.
 
+La aplicación se desplegará en la nube, lo que permitirá acceder a ella desde diferentes ubicaciones y escalar conforme aumenten las necesidades del negocio.
