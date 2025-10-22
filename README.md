@@ -60,3 +60,13 @@ Para garantizar un funcionamiento fluido y fácil gestión, la **aplicación** r
 La **aplicación** propuesta tiene como objetivo resolver varios problemas operativos de la agencia de marca de moda, tales como la gestión de inventarios, la recomendación de productos y la automatización de los guiones de ventas. A través de la integración de sistemas inteligentes, esta **aplicación** busca mejorar la eficiencia operativa y la satisfacción del cliente.
 
 La aplicación se desplegará en la nube, lo que permitirá acceder a ella desde diferentes ubicaciones y escalar conforme aumenten las necesidades del negocio.
+
+
+
+## Configuración
+
+Se requiere configuración previa del entorno.
+
+## Aplicación
+
+La aplicación se ejecuta con `python -m src.main`.
