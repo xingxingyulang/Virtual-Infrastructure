@@ -39,7 +39,7 @@ The **application** will include a knowledge management system that stores and o
 
 * * *
 
-## **Configuración de la Aplicación**
+## **Configuración**
 
 Para garantizar un funcionamiento fluido y fácil gestión, la **aplicación** requiere ciertas configuraciones. A continuación se detallan los componentes clave de configuración:
 
@@ -55,18 +55,4 @@ Para garantizar un funcionamiento fluido y fácil gestión, la **aplicación** r
 4. **Configuración de la Base de Conocimiento**
    La **aplicación** incluirá una base de conocimiento a la que los agentes podrán acceder para obtener detalles sobre los productos, pasos de solución de problemas y registros de interacciones con los clientes. La configuración de esta base de conocimiento es esencial para garantizar que los agentes puedan encontrar rápidamente las respuestas correctas.
 
-## **Aplicación**
-
-La **aplicación** propuesta tiene como objetivo resolver varios problemas operativos de la agencia de marca de moda, tales como la gestión de inventarios, la recomendación de productos y la automatización de los guiones de ventas. A través de la integración de sistemas inteligentes, esta **aplicación** busca mejorar la eficiencia operativa y la satisfacción del cliente.
-
-La aplicación se desplegará en la nube, lo que permitirá acceder a ella desde diferentes ubicaciones y escalar conforme aumenten las necesidades del negocio.
-
-
-
-## Configuración
-
-Se requiere configuración previa del entorno.
-
-## Aplicación
-
-La aplicación se ejecuta con `python -m src.main`.
+## 
