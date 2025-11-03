@@ -4,11 +4,11 @@
 
 **Customer:**
 
-clothing agent
+apparel brand agent
 
 **Problem Description:**
 
-The customer service team still relies on manual inventory checks, resulting in slow response times and frequent errors in information; product recommendations depend on individual experience, leading to inaccuracies and difficulty in matching customers' real needs; existing scripts are rigid and lack personalization, struggling to handle special scenarios; there are significant skill gaps among employees, and knowledge is not effectively captured or shared, leading to long training periods. Once an employee leaves, their experience is lost. The traditional manual service model is no longer sufficient to support the business's rapid growth.
+An apparel brand agent in South China is facing a tricky problem in daily operations: their SCRM system lacks two key management functions — it neither categorizes customers and internal employees nor tags customer groups and internal work groups within the WeChat ecosystem. This results in low efficiency for frontline staff when engaging with customers, difficulties in promoting repurchases among existing customers, and an inability to track purchasing trends or analyze average customer spending based on consumers' purchasing characteristics.
 
 
 
